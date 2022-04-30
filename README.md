@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="https://discord.gg/eQkpDKNM8X">Discord</a> |
+  <a href="discord.gg/warzonefr">Discord</a> |
   <a href="https://www.youtube.com/watch?v=LJn9PERtlsQ&t=1s">YouTube</a> |
   <a href="https://github.com/ZaZoumS">Github</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/904095326556786689/904148429171736576/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933393436353037323037393333373639392f413434413244323442423938373236374632364335363434304635314130423436383438313232322f.gif">
+  <img src="https://c.tenor.com/UURVdYHbHi4AAAAd/mikey-tokyo-revengers.gif">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-3/277852107976081418.png">
 </p>
