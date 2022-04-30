@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/watch?v=LJn9PERtlsQ&t=1s">YouTube</a> |
   <a href="https://github.com/ZaZoumS">Github</a>
   <br><br>
-  <img src="https://c.tenor.com/UURVdYHbHi4AAAAd/mikey-tokyo-revengers.gif">
+  <img src="https://cdn.discordapp.com/attachments/954080225891872778/970060011793420309/mikey-tokyo-revengers.gif">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-3/277852107976081418.png">
 </p>
