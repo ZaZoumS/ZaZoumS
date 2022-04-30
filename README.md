@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour le monde :D</h1>
+<h1 align="center">Bien le Bonjour</h1>
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
@@ -8,7 +8,7 @@
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/954080225891872778/970060312864751656/BliM.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-3/277852107976081418.png">
+  <img src="https://discord.c99.nl/widget/theme-1/954057816614793216.png">
 </p>
 
 #
