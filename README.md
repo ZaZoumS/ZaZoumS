@@ -13,8 +13,7 @@
 
 #
 ```diff
-👤 >> 14 years old, french developper.
-🗣️ >> mathis1991@outlook.fr
+👤 >> 15 years old, french developper.
 🐺 >> Learn java,c++,c# 
 ```
 #
