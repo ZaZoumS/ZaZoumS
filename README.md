@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="discord.gg/warzonefr">Discord</a> |
+  <a href="[discord.gg/warzonefr](https://discord.gg/5fjytG7nU3)">Discord</a> |
   <a href="https://www.youtube.com/watch?v=LJn9PERtlsQ&t=1s">YouTube</a> |
   <a href="https://github.com/ZaZoumS">Github</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/954080225891872778/970060312864751656/BliM.gif">
+  <img src="https://cdn.discordapp.com/attachments/1015711587891429396/1017126569447276684/11acda73e8e658ae051c6a7ac9456edb.gif">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-1/954057816614793216.png">
 </p>
