@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="[https://discord.gg/5fjytG7nU3)">Discord</a> |
+  <a href="[https://discord.gg/5fjytG7nU3">Discord</a> |
   <a href="https://www.youtube.com/watch?v=LJn9PERtlsQ&t=1s">YouTube</a> |
   <a href="https://github.com/ZaZoumS">Github</a>
   <br><br>
